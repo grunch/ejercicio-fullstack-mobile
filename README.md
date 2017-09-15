@@ -62,4 +62,4 @@ Este ejercicio consiste en crear una aplicación **React Native** la cual debe t
 - Una pantalla donde se muestre el detalle de un hotel que se consume del método **detalle de hotel** del Api Rest del ejercicio 1.
 - Debe haber navegación tanto de la pantalla de resultado a detalle y viceversa.
 - Uso de patrones de diseño y buenas prácticas.
-- Readme detallando cómo esta compuesta la aplicación y de que consta.
+- Readme detallando cómo instrucciones de cómo levantar la aplicación y cómo esta compuesta.
