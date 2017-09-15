@@ -6,10 +6,13 @@ Forma de entrega
 
 La forma de entregar la solución de este ejercicio es haciendo un fork de este repo y un pull request con la solución.
 
-### Ejercicio 1 – API Rest NodeJs Este punto consiste en armar un API Rest en Node.js (para ahorrar tiempo, como base puedes utilizar un stack de desarrollo con el que estés familiarizado). Es necesario crear:
+### Ejercicio 1:
+
+Este punto consiste en armar un API Rest en Node.js (para ahorrar tiempo, como base puedes utilizar un stack de desarrollo con el que estés familiarizado). Es necesario crear:
 
 - Un método que retorne una lista de hoteles. El mismo será utilizado en el ejercicio 2.1.
-- Un método que retorne el detalle de un hotel.
+- Un método que retorne el detalle de un hotel El mismo será utilizado en el ejercicio 2.2.
+- Readme detallando instrucciones de cómo usar el Api.
 
 Extras/Plus Los plus son adicionales que suman valor a tu ejercicio, aunque no son obligatorios.
 
@@ -47,6 +50,7 @@ Uso de herramientas como webpack, gulp o algún gestor de tareas.
   "name" : "Hotel Emperador",
   "stars" : "3",
   "price" : "1596",
+  "address": "Av. del Libertador 420"
 }
 ```
 
@@ -57,4 +61,5 @@ Este ejercicio consiste en crear una aplicación **React Native** la cual debe t
 - Una pantalla donde se listen los hoteles que devuelve el método **lista de hoteles** del Api Rest del ejercicio 1.
 - Una pantalla donde se muestre el detalle de un hotel que se consume del método **detalle de hotel** del Api Rest del ejercicio 1.
 - Debe haber navegación tanto de la pantalla de resultado a detalle y viceversa.
-- Uso de patrones de diseño y best practices.
+- Uso de patrones de diseño y buenas prácticas.
+- Readme detallando cómo esta compuesta la aplicación y de que consta.
