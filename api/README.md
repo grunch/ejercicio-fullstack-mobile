@@ -1,6 +1,6 @@
 # API Rest en Node.js
 
-Api demo desarrollada con la finalidad de desarrollar la prueba técnica para **almundo.com**.
+Api demo desarrollada con la finalidad de realizar la prueba técnica para **almundo.com**.
 
 ### Clonar el proyecto e instalar dependencias
 
