@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View, Text, TouchableOpacity } from 'react-native';
-import Stars from './Stars';
+import { Stars } from './commons';
 
 export default class HotelItem extends Component {
   onListPress(detail) {
@@ -21,7 +21,7 @@ export default class HotelItem extends Component {
           <Text>
             {this.props.item.address}
           </Text>
-          <Stars stars={this.props.item.stars} />
+          <Stars style={{ marginTop: 5 }} stars={this.props.item.stars} />
         </View>
       </TouchableOpacity>
     );
