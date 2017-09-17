@@ -24,3 +24,7 @@ Para que la app funcione correctamente debe estar ejecutandose la API que se enc
 El proyecto utiliza jest, para correr los tests ejecuta:
 
 		npm test
+
+### Nota
+
+En la constante API_URL ubicada en hotel-app/const.js se indica la URL del servidor que ejecuta la API rest, por defecto es localhost.
